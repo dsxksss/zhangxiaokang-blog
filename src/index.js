@@ -1,7 +1,4 @@
-let navContent = [
-  "zhangxiaokang的个人博客",
-  "我的github",
-];
+import navContent from "./data.js";
 
 let navs = document.querySelector("#nav");
 
